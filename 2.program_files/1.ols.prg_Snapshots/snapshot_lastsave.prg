@@ -41,3 +41,4 @@
 ' #6.- Save data as "TableI_1.wf1"
 	wfsave(2) "D:\master\programming_courses\eviews\5.processed_data\TableI_1.wf1"
 
+
